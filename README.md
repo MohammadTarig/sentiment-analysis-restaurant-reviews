@@ -103,7 +103,7 @@ The trained model is downloaded from Hugging Face when the application loads.
 
 The fine-tuned model is available on Hugging Face:
 
-[mohammad-tarig/bert_base_uncased_sentiment_restaurants_v1](https://huggingface.co/mohammad-tarig/bert_base_uncased_sentiment_restaurants_v1/?utm_source=chatgpt.com)
+[mohammad-tarig/bert_base_uncased_sentiment_restaurants_v1](https://huggingface.co/mohammad-tarig/bert_base_uncased_sentiment_restaurants_v1/)
 
 ## 🛠️ Technologies
 
